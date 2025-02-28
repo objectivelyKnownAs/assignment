@@ -2,7 +2,7 @@
 <html>
  <body>
   <h1> Lo and Behold </h1>
-  <p>Bullet lists nested within numbered list:</p>
+  <p>Many fruits:</p>
 
 <ol>
   <li>fruits <ul>
